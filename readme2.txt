@@ -6,4 +6,4 @@ git has a mutable index called stage1111
 git has a mutable index called stage2222
 Creating a new branch is quick and simple.
 分支管理策略
-
+wo shi zai github shang 修改！
